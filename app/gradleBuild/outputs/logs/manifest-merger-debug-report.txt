@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:3:5-49
+	xmlns:android
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:7:22-68
+application
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:9:5-23:19
+	android:label
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:14:9-45
+activity#com.example.my_tensorflow_detector.DetectorActivity
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:15:9-22:20
+	android:name
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:15:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:16:13-21:29
+action#android.intent.action.MAIN
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:19:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:20:17-86
+	android:name
+		ADDED from T:\subject\Andiord\project\My_Tensorflow_detector\app\AndroidManifest.xml:20:27-83
